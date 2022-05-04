@@ -180,6 +180,7 @@ nav .row {
 }
 
 /* about-author-css */
+
 .author {
   color: #111;
   font-family: 'Poppins', sans-serif;
@@ -188,18 +189,7 @@ nav .row {
   display: inline-block;
   margin-bottom: 20px;
   position: relative;
-}
-
-@keyframes openclose {
-  0% {
-    text-indent: 0;
-    background-color: #000;
-  }
-
-  100% {
-    width: auto;
-    display: inline-block;
-  }
+  overflow:hidden;
 }
 
 .rect {
