@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 
-import logo from "../../../src/assets/Logo.png";
+import logo from "../../../src/assets/alexandria_logo.gif";
 
 import { FaEnvelope } from "react-icons/fa";
 import { FaPhoneAlt } from "react-icons/fa";
